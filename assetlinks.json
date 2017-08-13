@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.etisalat.anabil.secondinstantdemo.base",
+    "sha256_cert_fingerprints":
+    ["56:71:C4:C4:61:48:B0:26:D5:4E:96:5D:D4:59:F8:15:0A:C1:5C:C2:8B:D7:BF:DB:0A:24:9E:E9:6F:35:5B:2E"]
+  }
+}]
